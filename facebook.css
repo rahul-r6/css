@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fb{
+    margin: 0px;
+text-align: center;
+justify-content: center;
+background-color: rgb(247, 247, 247);
+height: 500px;
+}
+
+.form{
+    border: 1px solid rgb(249, 249, 249);
+    height: 306px;
+    width: 415px;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 15px;
+    border-radius: 7px;
+    background-color: white;
+    
+}
+
+#fb{
+    font-family: 'Mulish', sans-serif;
+    color: rgb(63, 102, 202);
+    font-size: 45px;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+#h2{
+    font-family: 'Mulish', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size:13px;
+margin-top: 22px;
+}
+
+#email{
+    height: 48px;
+    width: 378px;
+    margin-top: 23px;
+    border-radius: 7px;
+    border: 1px solid rgb(188, 185, 185);
+    font-size: 18px;
+    padding-left: 10px;
+    opacity: 0.5;
+
+}
+#pswd{
+    margin-top: 12px;
+    height: 48px;
+    width: 378px;
+    border-radius: 7px;
+    border: 1px solid rgb(188, 185, 185);
+    font-size: 18px;
+    padding-left: 10px;
+    opacity: 0.5;
+}
+
+button{
+    height: 48px;
+    width: 382px;
+    margin-top: 12px;
+    border-radius: 7px;
+    border: 1px solid;
+  
+    background-color: rgb(28, 129, 237) ;
+}
+.signup{
+    margin-top: 20px;
+    font-family: 'Mulish', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 15px;
+}
+
+.sign1{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(101, 101, 206);
+    font-weight: bold;
+}
+#log{
+    color: white;
+    font-size: 18px;
+  font-weight: bolder;
+}
+
+#sign2{
+    margin-left: 2px;
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(101, 101, 206);
+    font-weight: bold;
+}
+
+.placeholder{
+    font-size: 300px;
+}
+
+#sign2:hover{
+    text-decoration: underline;
+}
+#sign3{
+   
+    margin-left: 2px;
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(101, 101, 206);
+    font-weight: bold;
+}
+
+#sign3:hover{
+    text-decoration: underline;
+}
+
+.lang{
+    background-color: white;
+}
+
+button:hover{
+    background-color: rgb(70, 146, 227);
+}
+
+.lang{
+    margin-top: 150px;
+    text-align: center;
+    font-size: small;
+    padding: 20px;
+    color: rgb(172, 172, 172);
+    text-decoration: none;
+}
+
+.lang1{
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+
+}
+
+.lang:hover{
+    text-decoration: underline;
+}
+.lang2{
+    
+    text-align: center;
+    font-size: small;
+    padding: 20px;
+    color: rgb(172, 172, 172);
+    text-decoration: none;
+}
+.lang:hover{
+    text-decoration: underline;
+}
+.lang3:hover{
+    text-decoration: underline;
+}
+
+.lang3{
+    text-decoration: none;
+    color: rgb(172, 172, 172);
+    padding-left: 50px;
+}
+
+#lang4{
+    color: rgb(172, 172, 172);
+    text-decoration: none;
+    margin-top: 10px;
+}
